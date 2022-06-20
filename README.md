@@ -12,8 +12,14 @@ Components includes:
 - 5v Regulators
 - Jump Cables
 
+![Schematics](https://user-images.githubusercontent.com/60870614/174683287-ea99c44f-fd03-40c7-b0b9-f1901c6baaca.jpg)
+
+
+
 Features Implemented:
 - Displays Time
 - Displays if Alarm is On/Off
 - Allows users to turn on alarm
 - Speaker sounds when alarm goes off
+
+
