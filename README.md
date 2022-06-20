@@ -22,4 +22,5 @@ Features Implemented:
 - Allows users to turn on alarm
 - Speaker sounds when alarm goes off
 
+![circuit board image](https://user-images.githubusercontent.com/60870614/174683377-2a0c99a3-c790-4b48-80db-f1c966ccc840.jpg)
 
